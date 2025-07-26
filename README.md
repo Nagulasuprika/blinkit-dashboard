@@ -85,3 +85,4 @@ Business Impact & Insights
 
 5. Screenshots / Demos:-
 
+https://github.com/Nagulasuprika/blinkit-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
