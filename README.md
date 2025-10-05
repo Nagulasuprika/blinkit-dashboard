@@ -1,4 +1,4 @@
-🛒 Blinkit Sales Insights Dashboard
+Blinkit Sales Insights Dashboard
 
 A dynamic, interactive Power BI dashboard designed to explore Blinkit's sales data across outlet types, sizes, and locations—highlighting item categories, fat content distribution, and historical establishment trends.
 
@@ -47,10 +47,10 @@ To create an interactive dashboard that:
 Walkthrough of Key Visuals
 
   Key KPIs (Top Section) 
-  - 🏷️ Total Sales: $1.20M
-  - 📦 Number of Items: 8523
-  - 💰 Average Sales per item: $141
-  - ⭐ Average Customer Rating: 3.9
+  -  Total Sales: $1.20M
+  -  Number of Items: 8523
+  -  Average Sales per item: $141
+  -  Average Customer Rating: 3.9
 
   Filter Panel (Left Sidebar)
   - Filter by outlet location type (Tier 1, Tier 2, Tier 3)
@@ -77,10 +77,10 @@ Walkthrough of Key Visuals
 
 
 Business Impact & Insights
-- 📊 Identified top-performing item categories to inform marketing campaigns.
-- 🏬 Helped decide resource allocation across outlet sizes and tiers.
-- 🔍 Enabled detailed analysis of outlet establishment trends to guide expansion strategies.
-- ⭐ Provided insights into customer ratings to enhance product offerings and quality.
+- Identified top-performing item categories to inform marketing campaigns.
+-  Helped decide resource allocation across outlet sizes and tiers.
+-  Enabled detailed analysis of outlet establishment trends to guide expansion strategies.
+-  Provided insights into customer ratings to enhance product offerings and quality.
 
 
 5. Screenshots / Demos:-
